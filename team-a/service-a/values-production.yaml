@@ -1,2 +1,5 @@
 podLabel:
   team: test
+
+service:
+  type: ClusterIP
